@@ -202,6 +202,19 @@ h4 {
   /* color: #F98C0D; */
 }
 
+.dot10 {
+  /* My Summary bg */
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  left: 452px;
+  top: 232px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.2);
+}
+
+
 .dot2 {
   /* web design bg */
   position: absolute;
