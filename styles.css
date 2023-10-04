@@ -203,16 +203,24 @@ h4 {
 }
 
 .dot10 {
-  /* My Summary bg */
   position: absolute;
-  width: 900px;
-  height: 900px;
-  left: 452px;
-  top: 232px;
+  width: 116px;
+  height: 116px;
+  left: 408.44px;
   border-radius: 50%;
-  background: #FFFFFF;
-  box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.2);
+  top: 460px;
+  color: #FFFFFF;
+  background: #6a5acd;
+  box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.06);
 }
+
+.dot10:hover {
+  position: relative;
+  /* left: 20px; */
+  /* color: #F98C0D; */
+}
+
+
 
 
 .dot2 {
