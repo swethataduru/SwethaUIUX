@@ -87,7 +87,7 @@ h4 {
   width: 459.62px;
   height: auto;
   left: 222.44px;
-  top: 104px;
+  top: 790px;
 }
 
 .back {
@@ -558,8 +558,8 @@ a {
 .dot10 {
   /* My Summary bg */
   position: absolute;
-  width: 734px;
-  height: 734px;
+  width: 900px;
+  height: 900px;
   left: 252px;
   top: 732px;
   border-radius: 50%;
@@ -572,7 +572,7 @@ a {
   position: absolute;
   width: 335px;
   height: 159px;
-  left: 580px;
+  left: 715px;
   top: 850px;
   font-family: Roboto;
   font-style: normal;
@@ -588,7 +588,7 @@ a {
   position: absolute;
   width: 380px;
   height: 390px;
-  left: 552px;
+  left: 713px;
   top: 989px;
   font-family: Roboto;
   font-style: normal;
