@@ -208,7 +208,7 @@ h4 {
   height: 116px;
   left: 408.44px;
   border-radius: 50%;
-  top: 460px;
+  top: 317px;
   color: #FFFFFF;
   background: #6a5acd;
   box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.06);
@@ -301,6 +301,18 @@ a {
   text-align: center;
   letter-spacing: -0.003em;
   /* color: #FFFFFF; */
+}
+
+.skills {
+  top: 75px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: center;
+  letter-spacing: -0.003em;
+  color: #FFFFFF;
 }
 
 .mb {
