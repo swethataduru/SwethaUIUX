@@ -602,6 +602,20 @@ a {
   color: inherit;
 }
 
+.ai {
+    position: relative;
+  top: 35px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: -0.003em;
+}
+
+.ai:hover {
+  color:inherit;
+}
 .dot10 {
   /* My Summary bg */
   position: absolute;
