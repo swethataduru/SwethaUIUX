@@ -605,12 +605,12 @@ a {
 .dot10 {
   /* My Summary bg */
   position: absolute;
-  width: 900px;
-  height: 900px;
-  left: 252px;
-  top: 732px;
+    width: 200px;
+    height: 200px;
+    left: 393px;
+    top: 574px;
   border-radius: 50%;
-  background: #FFFFFF;
+  background: #800020;
   box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.2);
 }
 
