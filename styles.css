@@ -614,6 +614,9 @@ a {
   letter-spacing: -0.003em;
 }
 
+.ai:hover { 
+    color:#fff;
+}
 
 .dot10 {
   /* My Summary bg */
